@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The head of this person is in the form of a wolf. This is in reference to Native American headwear, that is more clearly depicted in other works from Jose Bedia.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://puam-loris.aws.princeton.edu/loris/INV46650.jp2",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1594.68212890625,117.81544494628906,482.211669921875,596.4195404052734"
+      },
+      "id": "bc07b183"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "37357bfe"
+  }
+]
