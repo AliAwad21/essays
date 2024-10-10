@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "37357bfe"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "test",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://puam-loris.aws.princeton.edu/loris/INV46650.jp2",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2279.7373046875,641.3755493164062,408.700927734375,506.01055908203125"
+      },
+      "id": "bc07b183"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5fef40fd"
   }
 ]
