@@ -12,12 +12,12 @@ Ali Awad, ARTHIST 354/354G
 **Ya Viene** portrays a native person surrounded in their art and culture and portrayed to us in a monsterous and terrifying and disproportionate in form. this form however in reality is the European's view as shown to the far left, who claims ""its" coming.". The word "its" gives us an understanding of the europeans view of the native person. Of their art and culture. To Jose Bedia, he takes from multiple sources of art. From latin american to native and african, from opressed people, from people whos art is shunned by traditional art establishments. This snobbish/elitist and ultimatly racist view of art is to Jose bedia "technological vanity". 
 
 # Plains Native Drawings
-.ve-media https://youtu.be/2VA7IN1DI9o?si=xc8sDgfG5qhihslI&t
+.ve-media https://www.youtube.com/watch?v=2VA7IN1DI9o
 
 In this video Jose Bedia shows some drawings of plains natives inspired from real world events and the reasoning for their depictions. Mainly deriving from a drawing towards these depictions of people that are often in classical art not focused on. However soon after there is shown a piece of african art of a mask. He, in his classical art education relates it to cubism and works of Picasso.
 
 # A focus on Indigenous Art
-.ve-media https://youtu.be/TFAhezPIeBM?si=ET95TpXMQxPvsV9&t
+.ve-media https://www.youtube.com/watch?v=TFAhezPIeBM
 
 In this video, there is explained the reason for why Jose Bedia often depicts native art through their orignal mediums or motiffs. Mainly to put a focus and spotlight to art and people that are often disregarded in their culture by classical art training. 
 
